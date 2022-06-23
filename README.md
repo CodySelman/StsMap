@@ -6,6 +6,17 @@ This repo is a modification of [Vladimir Limarchenko](https://github.com/silveru
 
 ## How To
 
+### How To Install
+
+1. Clone the repo to your local machine.
+2. Open the Unity Project you want to install the package in.
+3. Open the StsMap.unitypackage file in your OS's file browser.
+4. Unity will prompt you to install the package.
+
+Note: DOTween is required for this project to run properly.
+
+### How To Use
+
 Demo video:
 
 [![FEATURES](https://img.youtube.com/vi/gHPh3trkJWc/0.jpg)](https://youtu.be/gHPh3trkJWc)
