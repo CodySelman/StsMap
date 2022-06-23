@@ -86,7 +86,7 @@ MonoBehaviour:
   backgroundColor:
     serializedVersion: 2
     rgba: 4294967295
-  xSize: 5
+  xSize: 13
   yOffset: 5
   linePrefab: {fileID: 6634828972530490649, guid: a38ad2792468afe4c86c1c50a1b86d99, type: 3}
   linePointsCount: 10
