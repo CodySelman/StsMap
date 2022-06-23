@@ -1,5 +1,5 @@
 {
-    "name": "com.CodySelman.StsMap",
+    "name": "com.codyselman.stsmap",
     "version": "0.0.1",
     "description": "An implementation of a Slay The Spire-like Map Generator For Unity.",
     "displayName": "StsMap",
